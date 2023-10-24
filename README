@@ -1,0 +1,16 @@
+The dfg-cv package provides a LaTeX version of the DFG's cross-program CV template – mandatory for all funding programs since March 1, 2023.
+
+The package is based on its RTF counterpart as provided by the DFG: https://www.dfg.de/formulare/53_200_elan/index.jsp
+
+There are two class options:
+- 'checked', if 'true' ticks the checkbox in the final consent form
+- 'walterbenjamin', if 'true', adds school data to the qualification section
+
+Furthermore, there are more compact versions of enumerate (compactEnumerate) and itemize (compactItemize) to have a bit more space. :)
+
+The attached example, 'cv.tex', aims to be self-explanatory.
+
+Further information on formatting choices and the content can be found here: https://www.dfg.de/en/research_funding/principles_dfg_funding/equal_opportunities/applicants_funding_recipients/personal_circumstances/faq_cv/index.html
+
+The dfg-cv package is subject to the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/legalcode)
+- DFG-Graduiertenkolleg 2475 'Cyberkriminalität und Forensische Informatik' <https://www.cybercrime.fau.de> 6 Sep 2023
